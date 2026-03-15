@@ -19,6 +19,8 @@ photomultiplier tubes (PMT) or silicon photomultipliers (SiPM)
 
 The analog front-end converts detector signals into shaped pulses suitable for digital acquisition and spectral analysis.
 
+For data acquisition here we use developed by open gamma project team https://github.com/OpenGammaProject/Gamma-MCA web gamma mca open source programm.
+
 
 
 
